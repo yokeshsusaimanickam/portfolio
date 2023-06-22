@@ -1,0 +1,14 @@
+to install Next
+npm add create-next-app@latest
+
+to install styled components
+npm add styled-components@latest
+
+to install react-simple-map
+npm install --save react-simple-maps
+
+to install emailjs/browser
+npm add @emailjs/browser
+
+to install three
+npm add three @react-three/fiber @react-three/drei
